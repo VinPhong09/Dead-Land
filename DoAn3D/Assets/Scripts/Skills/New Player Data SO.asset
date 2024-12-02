@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26d997b53cd04b14e86101bca68d2c62, type: 3}
+  m_Name: New Player Data SO
+  m_EditorClassIdentifier: 
+  _level: 0
+  _health: 0
+  _damage: 0
+  _moveSpeed: 0
+  _jumpForce: 0
+  _dpsMeleeAttack: 0
+  _dpsBulletAttack: 0
+  _bulletSpeed: 0
+  _detectionRadius: 0
+  _exp: 0
+  _abilities:
+  - {fileID: 11400000, guid: 2cbf28bdaabb7f94f8eb7421aa31f947, type: 2}
+  - {fileID: 11400000, guid: 11925f71094391049a60687e6f44d0a1, type: 2}
+  - {fileID: 11400000, guid: ed8e41097d7e89c4f90ef9045dab819f, type: 2}

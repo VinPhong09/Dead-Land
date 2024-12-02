@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cc041079c0ada24b89d37c8b784a495, type: 3}
+  m_Name: EnemyData
+  m_EditorClassIdentifier: 
+  stopToAttackDis: 2.5
+  enemyLevels:
+  - enemyLvl: Enemy_1
+    hp: 10
+    attack: 5
+    exp: 2
+    moveSpeed: 3.5
+    enemySpawnAmount: 10
+  - enemyLvl: Enemy_2
+    hp: 40
+    attack: 6
+    exp: 5
+    moveSpeed: 3.9
+    enemySpawnAmount: 11
+  - enemyLvl: Enemy_3
+    hp: 80
+    attack: 7
+    exp: 25
+    moveSpeed: 4
+    enemySpawnAmount: 12
+  - enemyLvl: Enemy_4
+    hp: 200
+    attack: 7
+    exp: 50
+    moveSpeed: 4.5
+    enemySpawnAmount: 13
+  - enemyLvl: Enemy_5
+    hp: 450
+    attack: 8
+    exp: 85
+    moveSpeed: 4.7
+    enemySpawnAmount: 14
+  - enemyLvl: Enemy_6
+    hp: 720
+    attack: 8
+    exp: 110
+    moveSpeed: 5.2
+    enemySpawnAmount: 15
+  - enemyLvl: Enemy_7
+    hp: 1000
+    attack: 9
+    exp: 200
+    moveSpeed: 6
+    enemySpawnAmount: 16
+  - enemyLvl: Enemy_8
+    hp: 1340
+    attack: 10
+    exp: 270
+    moveSpeed: 7
+    enemySpawnAmount: 17
+  - enemyLvl: Enemy_9
+    hp: 2000
+    attack: 11
+    exp: 350
+    moveSpeed: 8
+    enemySpawnAmount: 18

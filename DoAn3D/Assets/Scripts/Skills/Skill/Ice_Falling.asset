@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1127561e562c6da47ad54f1d3982c427, type: 3}
+  m_Name: Ice_Falling
+  m_EditorClassIdentifier: 
+  skillName: Ice Falling
+  skillDescription: 
+  skillIcon: {fileID: 21300000, guid: b49514f29b6462849a14835fd702d646, type: 3}
+  skillLevel: 0
+  skillCost: 0
+  skillCooldown: 10
+  skillDamage: 0
+  isLocked: 0
+  skillEffect: {fileID: 11400000, guid: 22644cb3685ed434286c253357a9b6bd, type: 2}
+  skillState: 0
+  skillType: 0
+  timeSkill: 3
